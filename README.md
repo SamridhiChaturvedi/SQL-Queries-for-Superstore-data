@@ -7,6 +7,8 @@
 * Description :-
 * This is a Superstore data SQL Project. 
 * This database contains 1 table which has 9994 rows and 13 columns.
+* It has been further divided into 4 tables:
+* Fact table, Customers, Products and Orders.
 
 * Approach :-
 1. Understanding the dataset
